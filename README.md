@@ -1,6 +1,10 @@
 # WaypointsTypings
 [![TypeScript definitions on DefinitelyTyped](http://definitelytyped.org/badges/standard-flat.svg)](http://definitelytyped.org)
 
+## Deprecation of a project
+Due to lack of time and focusing on other work I'm unable to maintain this project anymore. Feel free to fork it and maintain. 
+Thanks for using it and sorry for not being able to continue this work.
+
 ### TypeScript typings for Waypoints
 
 I missed TypeScript typings for [Waypoints](http://imakewebthings.com/waypoints/) library.
